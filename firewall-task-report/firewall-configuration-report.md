@@ -1,5 +1,5 @@
 nano ~/firewall-task-report/firewall-configuration-report.md
-# 🔐 Cybersecurity Internship Report: Firewall Configuration on Kali Linux
+# 🔐 Linux Firewall Report: Firewall Configuration on Kali Linux
 
 ## 🧭 Objective
 To configure and test firewall rules using UFW (Uncomplicated Firewall) in Kali Linux. This task demonstrates how to block and allow specific ports, verify rule effectiveness, and restore original settings—all while documenting the process for reproducibility.
